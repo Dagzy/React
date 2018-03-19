@@ -7,3 +7,8 @@ for (let i = 0; i < colors.length; i++) {
 }
 
 let randomizer = '' 
+
+
+class User {
+    
+}
